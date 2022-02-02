@@ -11,5 +11,16 @@ The network does not make predictions and then perform aritmetic operations base
 ```3] The file 10 fold cross validation trains the network for better accuracy with large number of samples.(The training might take a bit longer than usual)```
 
 # Here are some of the results obtained from the model
+## 1. Addition
 
 ![Addition_model](figures/addition.png "Addition")
+
+## 2. Subtraction
+
+![Subtraction_model](figures/subtraction.png "subtraction")
+
+## 3. Multiplication
+
+![Multiplication_model](figures/multiplication.png "Multiplication")
+
+
