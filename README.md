@@ -24,3 +24,7 @@ The network does not make predictions and then perform aritmetic operations base
 ![Multiplication_model](figures/multiplication.png "Multiplication")
 
 
+# Paper
+This repository contains code for the work described in the following paper and also extention work based on this paper:
+
+Bloice, M.D., Roth, P.M., and Holzinger, A. Performing arithmetic using a neural network trained on images of digit permutation pairs. Journal of Intelligent Information Systems (2021). https://doi.org/10.1007/s10844-021-00662-9
